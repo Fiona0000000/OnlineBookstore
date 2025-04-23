@@ -1,0 +1,7 @@
+user1:hello123
+user2:password456
+admin:admin@2025
+raju:raju@123
+babubhaiya:123456babuBhaiya007
+shyam:anuradha@134
+masoom:gathiyamaster@1234009
